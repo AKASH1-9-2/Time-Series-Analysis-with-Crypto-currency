@@ -4,6 +4,7 @@
 This Power BI dashboard presents a comprehensive time series analysis of various cryptocurrencies. The dataset includes metrics such as market capitalization, volume, slot count, and price statistics (high, low, open, close) across multiple years.
 
 **Key Features and Visualizations:*
+
 **1.Bar Chart (Top Left):**
   Displays the sum of close prices and count of open prices over the years (2013–2022). This helps in identifying trends and market movement over time for cryptocurrencies.
 
