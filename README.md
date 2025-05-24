@@ -28,3 +28,4 @@ This Power BI dashboard presents a comprehensive time series analysis of various
   **- Sum of Open:** 63.48 Million
   These indicators summarize essential market metrics and give a quick snapshot of crypto market health.
 
+#Infotact Solutions       #Data Analytics       #Time Series Analysis
